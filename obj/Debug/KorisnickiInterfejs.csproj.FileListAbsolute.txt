@@ -1,0 +1,145 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2\02 cas grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2\02 cas grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2\02 cas grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2\02 cas grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 4\grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 4\grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 4\grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 4\grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 4\grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 4\grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 4\grupa 1\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+c:\JELKA I GORAN 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+c:\JELKA I GORAN 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+c:\JELKA I GORAN 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+c:\JELKA I GORAN 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+c:\JELKA I GORAN 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\JELKA I GORAN 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+c:\JELKA I GORAN 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE 2 CAS 8 PRIPREMA\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE 2 CAS 8 PRIPREMA\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE 2 CAS 8 PRIPREMA\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE 2 CAS 8 PRIPREMA\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE 2 CAS 8 PRIPREMA\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE 2 CAS 8 PRIPREMA\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE 2 CAS 8 PRIPREMA\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\zAB\SE2\Vezbe\08 cas VEZBA ZA REFAKTORISANJE\MATERIJAL ZA ZADATAK\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+c:\Users\student\Documents\zAB\SE2\Vezbe\08 cas VEZBA ZA REFAKTORISANJE\MATERIJAL ZA ZADATAK\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\zAB\SE2\Vezbe\08 cas VEZBA ZA REFAKTORISANJE\MATERIJAL ZA ZADATAK\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+c:\Users\student\Documents\zAB\SE2\Vezbe\08 cas VEZBA ZA REFAKTORISANJE\MATERIJAL ZA ZADATAK\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+c:\Users\student\Documents\zAB\SE2\Vezbe\08 cas VEZBA ZA REFAKTORISANJE\MATERIJAL ZA ZADATAK\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\Users\student\Documents\zAB\SE2\Vezbe\08 cas VEZBA ZA REFAKTORISANJE\MATERIJAL ZA ZADATAK\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+c:\Users\student\Documents\zAB\SE2\Vezbe\08 cas VEZBA ZA REFAKTORISANJE\MATERIJAL ZA ZADATAK\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\zAB\SE2\Vezbe\08 cas VEZBA ZA REFAKTORISANJE\MATERIJAL ZA ZADATAK\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+c:\Users\student\Documents\zAB\SE2\Vezbe\08 cas VEZBA ZA REFAKTORISANJE\MATERIJAL ZA ZADATAK\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PoslovnaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlaseMapiranja.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PoslovnaLogika.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlaseMapiranja.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PoslovnaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlaseMapiranja.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PoslovnaLogika.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlaseMapiranja.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PoslovnaLogika.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlaseMapiranja.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PoslovnaLogika.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlaseMapiranja.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll.config
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+C:\Users\FUJITSU\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll.config
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+C:\Users\User\Desktop\Evidencija prodaje pozorisnih karata\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll.config
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.dll
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\DBUtils.pdb
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\User\Desktop\Evidencija ženska odbojkaska rep\4_PrezentacioniSloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb

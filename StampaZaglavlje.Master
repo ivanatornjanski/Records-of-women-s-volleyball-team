@@ -1,0 +1,100 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="StampaZaglavlje.master.cs" Inherits="KorisnickiInterfejs.StampaZaglavlje" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+     <title>Odbojka Info</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+ 
+        .style2
+        {
+
+            color: #000066;
+            font-size: small;
+        }
+        .style3
+        {
+            color: #000066;
+            font-size: small;
+            width: 6px;
+        }
+        .style4
+        {
+            color: #000066;
+            font-size: small;
+            width: 35px;
+        }
+        .style5
+        {
+            color: #000066;
+            font-size: small;
+            width: 4px;
+        }
+        .auto-style1 {
+            width: 126px;
+            height: 106px;
+        }
+        .auto-style2 {
+            width: 130px;
+            height: 362px;
+        }
+        .auto-style3 {
+            width: 122px;
+            height: 89px;
+        }
+        .auto-style5 {
+            color: #000066;
+            font-size: small;
+            width: 35px;
+            height: 362px;
+        }
+        .auto-style6 {
+            color: #000066;
+            font-size: small;
+            height: 362px;
+        }
+        .auto-style7 {
+            color: #000066;
+            font-size: small;
+            width: 32px;
+            height: 362px;
+        }
+        .auto-style8 {
+            width: 117px;
+            height: 362px;
+        }
+    </style>
+</head>
+<body style ="background-color:#ffffff" >
+    <form id="Form1" runat="server">
+                <center>
+                <table style="background-color:#ffffff ">
+                    <tr>
+                        <td class="auto-style2" align="right" >
+                            <img alt="" class="auto-style1" src="Slike/volleyball.jpg" /></td>
+                        <td class="auto-style7">
+                            &nbsp;&nbsp;</td>
+                        <td class="auto-style6">
+                             ODBOJKA<br />
+                            ŽENSKA REPREZENTACIJA<br />
+                            SRBIJA</td>
+                        <td class="auto-style5">
+                            </td>
+                        <td align="left" class="auto-style8">
+                            <img alt="" class="auto-style3" src="Slike/lopta.jpg" /></td>
+                    </tr>
+                </table>
+                </center>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+    <div class="footer">
+       </div>
+    </form>
+</body>
+</html>
+

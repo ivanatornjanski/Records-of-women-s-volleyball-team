@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="KorisnickiInterfejs.Admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    EVIDENCIJA ŽENSKE ODBOJKAŠKE REPREZENTACIJE
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:HyperLink ID="HyperLink1" runat="server" Font-Bold="True" 
+                    Font-Size="Medium" Font-Underline="True" ForeColor="White" 
+                    NavigateUrl="~/Default.aspx">ODJAVA</asp:HyperLink>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal" OnMenuItemClick="NavigationMenu_MenuItemClick">
+                    <Items>
+                        <asp:MenuItem Text="KLUBOVI" 
+                            Value="KLUBOVI">
+                            <asp:MenuItem NavigateUrl="~/KlubTabelarni.aspx" 
+                                Text="Tabelarni prikaz klubova" Value="Tabelarni prikaz klubova">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/KlubUnos.aspx" Text="Unos kluba" 
+                                Value="Unos kluba"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/KlubTabelaEdit.aspx" 
+                                Text="Izmena i brisanje kluba" Value="Izmena i brisanje kluba">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/KlubParametarStampe.aspx" Text="Stampa spiska klubova" 
+                                Value="Stampa spiska klubova"></asp:MenuItem>
+                            
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="EVIDENCIJE" 
+                            Value="EVIDENCIJE">
+                            <asp:MenuItem NavigateUrl="~/EvidencijaSpisak.aspx" Text="Spisak evidencija" 
+                                Value="Spisak evidencija"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/EvidencijaUnos.aspx" Text="Unos evidencija" 
+                                Value="Unos evidencija"></asp:MenuItem>
+                        </asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
+
