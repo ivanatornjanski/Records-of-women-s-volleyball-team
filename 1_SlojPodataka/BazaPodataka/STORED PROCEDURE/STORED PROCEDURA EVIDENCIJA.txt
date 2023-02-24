@@ -1,0 +1,59 @@
+USE [ODBOJKA]
+GO
+
+CREATE PROCEDURE [DajSveEvidencije]
+AS
+Select * from Evidencija
+GO
+
+CREATE PROCEDURE [DajSveEvidencijeSaJoin] 
+AS
+Select Evidencija.IDIgraca, Evidencija.IgracIme, Evidencija.IgracPrezime, Evidencija.GodinaRodjenja, Evidencija.BrojNaDresu, Klub.Naziv as NazivKluba from Evidencija inner join Klub on Evidencija.IDKluba = Klub.Sifra
+GO
+
+CREATE PROCEDURE [DajEvidencijePoImenuIgraca] @EvidencijaIgracIme nvarchar(15)
+AS
+select Evidencija.IDIgraca, Evidencija.IgracIme, Evidencija.IgracPrezime, Evidencija.GodinaRodjenja, Evidencija.BrojNaDresu, Klub.Naziv as NazivKluba from Evidencija inner join KLUB on KLUB.Sifra = Evidencija.IDKluba where Evidencija.IgracIme = @EvidencijaIgracIme
+
+CREATE PROCEDURE [DodajNovuEvidenciju]( 
+@IDIgraca int,
+@IgracIme nvarchar(15),
+@IgracPrezime nvarchar(60),
+@GodinaRodjenja int,
+@BrojNaDresu int,
+@IDKluba char(3))
+AS
+BEGIN
+Insert into Evidencija(IDIgraca, IgracIme, IgracPrezime, GodinaRodjenja, BrojNaDresu, IDKluba) values (@IDIgraca, @IgracIme, @IgracPrezime, @GodinaRodjenja, @BrojNaDresu, @IDKluba)
+END
+GO
+
+CREATE PROCEDURE [ObrisiEvidenciju](
+@IDIgraca int)
+AS
+BEGIN
+Delete from Evidencija where IDIgraca=@IDIgraca
+END
+GO
+
+CREATE PROCEDURE [IzmeniEvidenciju](
+@StariIDIgraca int,
+@IDIgraca int,
+@IgracIme nvarchar(15),
+@IgracPrezime nvarchar(60),
+@GodinaRodjenja int,
+@BrojNaDresu int,
+@IDKluba char(3))
+AS
+BEGIN
+Update Evidencija set IDIgraca=@IDIgraca, IgracIme=@IgracIme, IgracPrezime=@IgracPrezime, GodinaRodjenja=@GodinaRodjenja, BrojNaDresu=@BrojNaDresu, IDKluba=@IDKluba where IDIgraca=@StariIDIgraca
+END
+GO
+
+
+CREATE PROCEDURE [DajSveEvidencijeSaJoinSifromKluba] 
+AS
+Select Evidencija.IDIgraca, Evidencija.IgracIme, Evidencija.IgracPrezime, Evidencija.GodinaRodjenja, Evidencija.BrojNaDresu, Klub.Naziv as NazivKluba, Klub.Sifra as SifraKluba  from Evidencija inner join Klub on Evidencija.IDKluba = Klub.Sifra
+GO
+
+

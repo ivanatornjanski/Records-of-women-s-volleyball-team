@@ -1,0 +1,54 @@
+USE [ODBOJKA]
+GO
+
+CREATE PROCEDURE [DajSveKlubove]
+AS
+select * from Klub
+GO
+
+CREATE PROCEDURE [DajKlubPoNazivu]
+( @NazivKluba nvarchar(40)
+)
+AS
+select * from Klub where Klub.Naziv = @NazivKluba
+GO
+
+CREATE PROCEDURE [DajKlubPoSifri]
+( @SifraKluba char(3)
+)
+AS
+select * from Klub where Klub.Sifra = @SifraKluba
+GO
+
+CREATE PROCEDURE [DodajNoviKlub]
+( 
+@Sifra char(3),
+@Naziv nvarchar(40)
+)
+AS
+BEGIN
+Insert into Klub(Sifra, Naziv) values (@Sifra, @Naziv)
+END
+GO
+
+CREATE PROCEDURE [ObrisiKlub](
+@Sifra char(3))
+AS
+BEGIN
+Delete from Klub where Sifra=@Sifra
+END
+GO
+
+CREATE PROCEDURE [IzmeniKlub](
+@StaraSifra char(3),
+@Sifra char(3),
+@Naziv nvarchar(40)
+)
+AS
+BEGIN
+Update Klub set Sifra=@Sifra, Naziv=@Naziv where Sifra=@StaraSifra
+END
+GO
+
+
+

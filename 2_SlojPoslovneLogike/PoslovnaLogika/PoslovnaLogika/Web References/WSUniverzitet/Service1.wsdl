@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="DajSvePredstave">
+        <s:complexType />
+      </s:element>
+      <s:element name="DajSvePredstaveResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DajSvePredstaveResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DajPredstavu">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DajPredstavuResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DajPredstavuResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DajIDPredstave">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="naziv" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DajIDPredstaveResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DajIDPredstaveResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="DajSvePredstaveSoapIn">
+    <wsdl:part name="parameters" element="tns:DajSvePredstave" />
+  </wsdl:message>
+  <wsdl:message name="DajSvePredstaveSoapOut">
+    <wsdl:part name="parameters" element="tns:DajSvePredstaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="DajPredstavuSoapIn">
+    <wsdl:part name="parameters" element="tns:DajPredstavu" />
+  </wsdl:message>
+  <wsdl:message name="DajPredstavuSoapOut">
+    <wsdl:part name="parameters" element="tns:DajPredstavuResponse" />
+  </wsdl:message>
+  <wsdl:message name="DajIDPredstaveSoapIn">
+    <wsdl:part name="parameters" element="tns:DajIDPredstave" />
+  </wsdl:message>
+  <wsdl:message name="DajIDPredstaveSoapOut">
+    <wsdl:part name="parameters" element="tns:DajIDPredstaveResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="DajSvePredstave">
+      <wsdl:input message="tns:DajSvePredstaveSoapIn" />
+      <wsdl:output message="tns:DajSvePredstaveSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DajPredstavu">
+      <wsdl:input message="tns:DajPredstavuSoapIn" />
+      <wsdl:output message="tns:DajPredstavuSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DajIDPredstave">
+      <wsdl:input message="tns:DajIDPredstaveSoapIn" />
+      <wsdl:output message="tns:DajIDPredstaveSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="DajSvePredstave">
+      <soap:operation soapAction="http://tempuri.org/DajSvePredstave" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DajPredstavu">
+      <soap:operation soapAction="http://tempuri.org/DajPredstavu" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DajIDPredstave">
+      <soap:operation soapAction="http://tempuri.org/DajIDPredstave" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="DajSvePredstave">
+      <soap12:operation soapAction="http://tempuri.org/DajSvePredstave" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DajPredstavu">
+      <soap12:operation soapAction="http://tempuri.org/DajPredstavu" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DajIDPredstave">
+      <soap12:operation soapAction="http://tempuri.org/DajIDPredstave" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://localhost:1370/Service1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://localhost:1370/Service1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

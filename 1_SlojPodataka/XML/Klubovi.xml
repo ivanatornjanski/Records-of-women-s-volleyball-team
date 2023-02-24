@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakKlubova>
+  <Zvanje>
+    <Sifra>1</Sifra>
+    <Naziv>Dinamo</Naziv>
+  </Zvanje>
+    <Zvanje>
+    <Sifra>2</Sifra>
+    <Naziv>Aspen</Naziv>
+  </Zvanje>
+ <Zvanje>
+    <Sifra>3</Sifra>
+    <Naziv>Proleter</Naziv>
+  </Zvanje>
+</SpisakKlubova>
